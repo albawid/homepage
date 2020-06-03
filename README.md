@@ -2,7 +2,7 @@
 
 <a href="https://github.com/albawid/homepage/blob/master/background/preview_prism_2.png"><img src="https://github.com/albawid/homepage/blob/master/background/preview_prism_2.png"></a>
 
-[Live Demo](catgrills.github.io/Prism/) of <i>Prism</i>, and it has been adjusted to the colorsheme that I use, [Oceanix Next](https://github.com/mhartington/oceanic-next)
+[Live Demo](https://catgrills.github.io/Prism/) of <i>Prism</i>, and it has been adjusted to the colorsheme that I use, [Oceanix Next](https://github.com/mhartington/oceanic-next)
 
 About
 -------------------------------
