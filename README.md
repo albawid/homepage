@@ -1,6 +1,7 @@
 # Prism
 
-<img src="https://github.com/albawid/homepage/blob/master/background/preview_prism_2.png" width="100%">
+
+<a href="https://github.com/albawid/homepage/blob/master/background/preview_prism_2.png"><img src="https://github.com/albawid/homepage/blob/master/background/preview_prism_2.png"></a>
 
 [Live Demo](https://albawid.github.io/homepage/) of <i>Prism</i>, and it has been adjusted to the colorsheme that I use, [Oceanix Next](https://github.com/mhartington/oceanic-next)
 
