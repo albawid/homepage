@@ -2,7 +2,7 @@
 
 <img src="preview_prism_2.png" width="100%">
 
-[Live Demo](https://catgrills.github.io/Prism/) of <i>Prism</i>.
+[Live Demo](https://albawid.github.io/homepage/) of <i>Prism</i>, and it has been adjusted to the colorsheme that I use, [Oceanix Next](https://github.com/mhartington/oceanic-next)
 
 About
 -------------------------------
@@ -32,9 +32,8 @@ Instruction
 
 I use several fonts for the startpage.
 <ol>
-<li> <a href="https://www.fontsquirrel.com/fonts/bebas-neue">Bebas Neue</a></li>
+<li> <a href="https://github.com/be5invis/Iosevka">Iosevka</a></li>
 <li> <a href="https://www.freejapanesefont.com/kf-himaji/">KFhimaji</a></li>
-<li> <a href="https://www.fontsquirrel.com/fonts/roboto">Roboto</a></li>
 </ol>
 
 Features
@@ -90,8 +89,3 @@ Disclaimer
 <li><a href="http://danbooru.donmai.us/posts?tags=tokiya">Tokiya Sakuba (作場季野)</a>
 <li><a href="https://www.pixiv.net/member_illust.php?id=1077075">waterkuma</a></li>
 </ol>
-
-Report
--------------------------------
-
-If you find some issues or bug while using this startpage, don't hesitate to report it in the comments.

@@ -1,5 +1,5 @@
 	* {
-	    	font-family: "Roboto", "ぼくたちのゴシック２ボールド" !important;
+	    	font-family: "Iosevka", "ぼくたちのゴシック２ボールド" !important;
 	    	outline: none;
 	}
 	html,
@@ -10,21 +10,22 @@
 		overflow: hidden;
 	}
 	#container {
-		/* MAIN CONTAINER */
-		background: #F9F9F9;
+		/* MAIN CONTAINER no-repeat url("background/background_01.png") center 60%;
+*/
+		background: #1b2b34;
 		width: 100%;
 		height: 100%;
 		margin: auto;
 		text-align: center;
 	}
 	#banner {
-		background: no-repeat url("background/background_01.png") center 60%;
-		background-size: cover;
+		background: #1b2b34;
+    background-size: cover;
 		height: 25%;
 		width: 100%
 	}
 	#banner #message {
-		background: rgba(33, 33, 33, .5);
+		background: #1b2b34;
 		height: 100% !important;
 		width: inherit;    
 		display: flex;
@@ -32,28 +33,28 @@
 		justify-content: center;
 	}
 	#banner #message #message_box {
-		color: #FFF;
-		font-family: "Bebas Neue" !important;
+		color: #C0C5CE;
+		font-family: "Iosevka" !important;
 		font-size: 40pt;
 		font-weight: bold;
 		letter-spacing: 10px !important;
 	}
 	#banner #time_box {
-		color: #7E7E7E;
+		color: #1b2b34;
 		right: 20px;
-		text-align: right;
+		text-align: center
 	}
 	#banner #day_box {
-		color: #00B5B5;
+		color: #1b2b34;
 		left: 20px;
-		text-align: left;
+		text-align: center;
 	}
 	#banner #time_box,
 	#banner #day_box {
-		background: #FFF;
+		background: #c0c5ce;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.1) !important;
 		border-radius: 2px !important;
-		font-family: "Roboto";
+		font-family: "Iosevka";
 		font-size: 14pt;
 		font-stretch: condensed;
 		padding: 10px 15px;	
@@ -64,19 +65,25 @@
 	#searchbox {
 		border: none;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.1) !important;
-		color: #60646D;
+    background: #c0c5ce;
+		color: #1b2b34;
 		font-size: 11pt !important;
 		font-stretch: condensed;
 		font-weight: bold;
+    text-align: center;
 		letter-spacing: .2px !important;
-		text-transform: uppercase;
-		height: 40px;
-		width: 100%;
-		padding: 15px 20px
+		text-transform: capitalize;
+		height: 17px;
+		width: 76%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 15px;
+		/*padding: 15px 20px;*/
 	}
 	#image-button {
 		background-color: transparent;
-		background-image: url("icons/search_icon.png");
+		/*background-image: url("icons/search_icon.png");*/
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 18px auto;
@@ -89,19 +96,19 @@
 	}
 	#main {
 		height: 100%;
-		width: 100%;
+		width: 101%;
 		padding: 22px 0px;
-		margin-top: 60px;
+		margin-top: 4px;
 	}
 	.card {
-		background: #F6F7FB;
+		background: #c0c5ce;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.2);
 		border-radius: 2px;
 		width: 12vw;
 		height: auto;
 		padding-bottom: 1.2vw;
 		margin-bottom: 20px;
-		margin-right: 15px;
+		margin-right: 17px;
 		display: inline-block !important;
 		text-align: center;
 	}
@@ -113,28 +120,30 @@
 		margin-top: 30px;
 	}
 	.card p {
-		color: #FFF;
-		font-family: "Roboto", "KFhimaji" !important;
+		color: #1b2b34;
+		font-family: "Iosevka", "KFhimaji" !important;
 		font-stretch: condensed;
 		font-weight: bold;
 		letter-spacing: 4px;
 		text-transform: uppercase;
+    font-size: 20px;
 	}
 	select {
-		background: #FFF;
+		background: #1b2b34;
 		border: none;
 		border-radius: 1.5px;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.1);
 		color: inherit;
-		font-family: "Roboto", "KFhimaji" !important;
-		font-size: 11.5pt;
+		font-family: "Iosevka", "KFhimaji" !important;
+		font-size: 12pt;
 		font-stretch: condensed;
 		font-weight: bold;
 		letter-spacing: .5px;
 		padding: 10px;
 		width: 83%;
 		text-align: center;
-		text-transform: uppercase;
+    text-align-last: center;
+		text-transform: capitalize;
 		margin-top: 14px;
 		-webkit-appearance: none;
 		-moz-appearance: none;
